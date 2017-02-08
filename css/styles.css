@@ -1,0 +1,25 @@
+.main {
+  position: relative;
+  z-index: 1;
+}
+
+.background img {
+  width: 100%;
+  height: auto;
+  opacity: 0.6;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.column {
+  float: right;
+  width: 30%;
+  background-color: rgba(219, 229, 22, 0.7); 
+  margin-left:20px;
+  margin-right: 15px;
+}
+
+.column p {
+  margin: 0px;
+}
